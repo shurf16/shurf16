@@ -15,12 +15,12 @@ I'm a second-year **Computer Science with Security** student at **Cardiff Univer
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 📈 Stats
+<!-- ### 📈 Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=shurf16&show_icons=true&hide_border=true" height="160" alt="GitHub stats" />
   <img src="https://leetcard.jacoblin.cool/sokahu16?theme=light&font=Inter" height="160" alt="LeetCode stats" />
   <img src="https://tryhackme-badges.s3.amazonaws.com/skhurford.png" alt="TryHackMe stats" />
-</p> 
+</p> -->
 
 ### 📫 Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophie-hurford/)
