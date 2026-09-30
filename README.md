@@ -4,7 +4,7 @@ I'm a second-year **Computer Science with Security** student at **Cardiff Univer
 
 ### 🔐 What I'm working on
 - A pool timetable and membership management system (in progress)
-- Building practical security skills on TryHackMe
+- Building practical security skills on TryHackMe, interested in offensive security (red teaaming) 
 - Practising problem solving on LeetCode
 
 ### 🛠️ Skills
@@ -19,10 +19,10 @@ I'm a second-year **Computer Science with Security** student at **Cardiff Univer
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=shurf16&show_icons=true&hide_border=true" height="160" alt="GitHub stats" />
   <img src="https://leetcard.jacoblin.cool/sokahu16?theme=light&font=Inter" height="160" alt="LeetCode stats" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/skhurford.png" alt="TryHackMe stats" />
 </p> -->
 
 ### 📫 Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophie-hurford/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/sokahu16/)
-<!-- Add once you have one: -->
-<!-- [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/your-name) -->
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/skhurford) 
