@@ -3,8 +3,8 @@
 I'm a second-year **Computer Science with Security** student at **Cardiff University**, interested in **cyber security**. I'm looking for a **12-month cyber security placement for 2027–28**.
 
 ### 🔐 What I'm working on
-- A pool timetable and membership management system (in progress)
-- Building practical security skills on TryHackMe, interested in offensive security (red teaaming) 
+- Reed's Pool Status: a Flask website showing live pool busyness (in progress)
+- Building practical security skills on TryHackMe, interested in offensive security (red teaming) 
 - Practising problem solving on LeetCode
 
 ### 🛠️ Skills
