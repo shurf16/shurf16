@@ -1,6 +1,6 @@
 # Hi, I'm Sophie 👋
 
-I'm a second-year **Computer Science with Security** student at **Cardiff University**, interested in **cyber security**. I'm looking for a **12-month cyber security placement for 2027–28**.
+I'm a second-year **Computer Science with Security & Forensics (Year in Industry)** student at **Cardiff University**, interested in **cyber security**. I'm looking for a **12-month cyber security placement for 2027–28**.
 
 ### 🔐 What I'm working on
 - Reed's Pool Status: a Flask website showing live pool busyness (in progress)
